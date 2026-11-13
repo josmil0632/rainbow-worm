@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Rainbow Worm",
+      "hasCanvas": true,
+      "bodyTextLen": 153,
+      "bodyTextHash": "07b3e9ec93fbcc8b61b7ae4ae257da4f198b38cd28fe24b6fd781b1a51f0e181",
+      "bodyTextPrefix": "SCORE 0 Best 0 0 ENDLESS SPACE HOP Rainbow Worm Hop the space ju",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Rainbow Worm",
+      "hasCanvas": true,
+      "bodyTextLen": 153,
+      "bodyTextHash": "07b3e9ec93fbcc8b61b7ae4ae257da4f198b38cd28fe24b6fd781b1a51f0e181",
+      "bodyTextPrefix": "SCORE 0 Best 0 0 ENDLESS SPACE HOP Rainbow Worm Hop the space ju",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)",
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
